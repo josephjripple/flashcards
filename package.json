@@ -1,0 +1,23 @@
+{
+  "name": "flashcards_app",
+  "version": "1.0.0",
+  "description": "study_guide_app",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/josephjripple/flashcards.git"
+  },
+  "author": "joseph_ripple",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/josephjripple/flashcards/issues"
+  },
+  "homepage": "https://github.com/josephjripple/flashcards#readme",
+  "dependencies": {
+    "express": "^4.16.3",
+    "pug": "^2.0.3"
+  }
+}
