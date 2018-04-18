@@ -1,0 +1,67 @@
+{
+    "data": {
+        "title": "JavaScript Flashcards",
+        "cards": [
+            {
+                "question": "What language are Express apps written in?",
+                "hint": "It starts with a \"J\"",
+                "answer": "JavaScript"
+            },
+            {
+                "question": "What is one way a website can store data in a user's browser?",
+                "hint": "They are delicious with milk",
+                "answer": "Cookies"
+            },
+            {
+                "question": "What is a common way to shorten the response object's name inside middleware?",
+                "hint": "It has the same abbreviation as \"resolution\"",
+                "answer": "res"
+            },
+            {
+                "question": "How many different values can booleans have?",
+                "hint": "Think: binary",
+                "answer": "2"
+            },
+            {
+                "question": "Which HTML element can contain JavaScript?",
+                "hint": "It starts with an \"s\"",
+                "answer": "<script>"
+            },
+            {
+                "question": "What function arguments are available to Express.js route handlers?",
+                "hint": "These 3 arguments will help end the middleware request-response cycle",
+                "answer": "Cookies"
+            },
+            {
+                "question": "What overall problem does templating attempt to solve?",
+                "hint": "Accuracy and efficiency is the name of the game",
+                "answer": "How to write and reuse HTML"
+            },
+            {
+                "question": "Where are static assets executed?",
+                "hint": "These are not sent to the server",
+                "answer": "The client executes them"
+            },
+            {
+                "question": "What overall problem do query strings attempt to solve?",
+                "hint": "A game of client-server relay",
+                "answer": "How to pass information to the server"
+            },
+            {
+                "question": "What overall problem do redirects attempt to solve?",
+                "hint": "Re-direction",
+                "answer": "How to move the client to a different URL"
+            },
+            {
+                "question": "Express cannot read and execute client-side Javascript",
+                "hint": "Boolean",
+                "answer": "True"
+            },
+            {
+                "question": "What problem do cookies attempt to solve?",
+                "hint": "Cookie monster is really in a state of gluttony",
+                "answer": "How to store a state"
+            }
+        ]
+    }
+}
