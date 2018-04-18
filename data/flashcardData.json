@@ -30,7 +30,7 @@
             {
                 "question": "What function arguments are available to Express.js route handlers?",
                 "hint": "These 3 arguments will help end the middleware request-response cycle",
-                "answer": "Cookies"
+                "answer": "res, req, next()"
             },
             {
                 "question": "What overall problem does templating attempt to solve?",
